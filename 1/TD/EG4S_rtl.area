@@ -1,0 +1,36 @@
+standard
+***Report Model: CortexM0_SoC***
+
+IO Statistics
+#IO                         4
+  #input                    3
+  #output                   0
+  #inout                    1
+
+Gate Statistics
+#Basic gates            19756
+  #and                   9461
+  #nand                     0
+  #or                    1961
+  #nor                      0
+  #xor                     72
+  #xnor                     0
+  #buf                      0
+  #not                   6445
+  #bufif1                   1
+  #MX21                   514
+  #FADD                     0
+  #DFF                   1302
+  #LATCH                    0
+#MACRO_ADD                  7
+#MACRO_EQ                   8
+#MACRO_MULT                 1
+#MACRO_MUX                 30
+
+Report Hierarchy Area:
++----------------------------------------------------+
+|Instance  |Module           |gates  |seq    |macros |
++----------------------------------------------------+
+|top       |CortexM0_SoC     |18454  |1302   |20     |
+|  u_logic |cortexm0ds_logic |18416  |1299   |14     |
++----------------------------------------------------+

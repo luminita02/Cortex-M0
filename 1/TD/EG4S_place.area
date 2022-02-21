@@ -1,0 +1,42 @@
+standard
+***Report Model: CortexM0_SoC***
+
+IO Statistics
+#IO                         4
+  #input                    3
+  #output                   0
+  #inout                    1
+
+Utilization Statistics
+#lut                     5315   out of  19600   27.12%
+#reg                     1300   out of  19600    6.63%
+#le                      5329
+  #lut only              4029   out of   5329   75.61%
+  #reg only                14   out of   5329    0.26%
+  #lut&reg               1286   out of   5329   24.13%
+#dsp                        3   out of     29   10.34%
+#bram                      64   out of     64  100.00%
+  #bram9k                  64
+  #fifo9k                   0
+#bram32k                    0   out of     16    0.00%
+#pad                        4   out of    188    2.13%
+  #ireg                     0
+  #oreg                     0
+  #treg                     0
+#pll                        0   out of      4    0.00%
+
+
+Detailed IO Report
+
+  Name     Direction    Location    IOStandard    DriveStrength    PullType    PackReg  
+  RSTn       INPUT         A9        LVCMOS25          N/A          PULLUP      NONE    
+  SWCLK      INPUT         R2        LVCMOS25          N/A          PULLUP      NONE    
+   clk       INPUT         R7        LVCMOS25          N/A          PULLUP      NONE    
+  SWDIO      INOUT         P2        LVCMOS25           8           PULLUP      NONE    
+
+Report Hierarchy Area:
++----------------------------------------------------------------------+
+|Instance |Module       |le    |lut    |ripple |seq    |bram   |dsp    |
++----------------------------------------------------------------------+
+|top      |CortexM0_SoC |5329  |5250   |65     |1300   |64     |3      |
++----------------------------------------------------------------------+

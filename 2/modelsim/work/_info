@@ -1,0 +1,239 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Modelsim
+vAHBlite_Block_RAM
+Z0 !s110 1645062635
+!i10b 1
+!s100 E?G:ImQ2VVMgWEOjS]Waj2
+IM9d@0J5jHoUbIZo]AQEjN2
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z2 dD:/jichuang/Ass/CortexM0_SoC_Task/Task2/modelsim
+Z3 w1571819350
+8D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/AHBlite_Block_RAM.v
+FD:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/AHBlite_Block_RAM.v
+L0 1
+Z4 OV;L;10.3c;59
+r1
+!s85 0
+31
+!s108 1645062635.410000
+!s107 D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/AHBlite_Block_RAM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/AHBlite_Block_RAM.v|
+!i113 1
+Z5 o-work work
+n@a@h@blite_@block_@r@a@m
+vAHBlite_Decoder
+R0
+!i10b 1
+!s100 I_jG3>UVhN>[Z8O[3Q?KO2
+IS]mGLRZbHLeSA:0@C^[5_3
+R1
+R2
+w1645060221
+8D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/AHBlite_Decoder.v
+FD:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/AHBlite_Decoder.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1645062635.617000
+!s107 D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/AHBlite_Decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/AHBlite_Decoder.v|
+!i113 1
+R5
+n@a@h@blite_@decoder
+vAHBlite_Interconnect
+Z6 !s110 1645062636
+!i10b 1
+!s100 ?Ecjdl5SWKcibilX`gWIg1
+IdX8=`]=Z0[14]nF]RfQ3n3
+R1
+R2
+R3
+8D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/AHBlite_Interconnect.v
+FD:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/AHBlite_Interconnect.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1645062636.151000
+!s107 D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/AHBlite_Interconnect.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/AHBlite_Interconnect.v|
+!i113 1
+R5
+n@a@h@blite_@interconnect
+vAHBlite_SlaveMUX
+R6
+!i10b 1
+!s100 l[E7[<PXS0P9YG^d=1Yi@0
+I79FQ7e8V_Y?W[8fHzCOZ?0
+R1
+R2
+R3
+8D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/AHBlite_SlaveMUX.v
+FD:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/AHBlite_SlaveMUX.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1645062636.351000
+!s107 D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/AHBlite_SlaveMUX.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/AHBlite_SlaveMUX.v|
+!i113 1
+R5
+n@a@h@blite_@slave@m@u@x
+vAHBlite_WaterLight
+R6
+!i10b 1
+!s100 Z8l=WDja9TbLh=ZbeVlVi0
+I6YHXXz=E6gUWGDQBE4VDT0
+R1
+R2
+w1578387130
+8D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/AHBlite_WaterLight.v
+FD:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/AHBlite_WaterLight.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1645062636.553000
+!s107 D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/AHBlite_WaterLight.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/AHBlite_WaterLight.v|
+!i113 1
+R5
+n@a@h@blite_@water@light
+vBlock_RAM
+!s110 1645062637
+!i10b 1
+!s100 b9`@8mUY@nnPBbbgk=f6o2
+IcK6h<Ub1EGOoJPU?8EKZ@3
+R1
+R2
+w1645061461
+8D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/Block_RAM.v
+FD:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/Block_RAM.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1645062637.060000
+!s107 D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/Block_RAM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/Block_RAM.v|
+!i113 1
+R5
+n@block_@r@a@m
+vbuzzer
+Z7 !s110 1645062645
+!i10b 1
+!s100 >VP;4[iGAdfiNZ=I?B^L?2
+IoGJ[m10iKC`[WM2IYKk[]1
+R1
+R2
+R3
+8D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/buzzer.v
+FD:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/buzzer.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1645062645.161000
+!s107 D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/buzzer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/buzzer.v|
+!i113 1
+R5
+vCortexM0_SoC
+R7
+!i10b 1
+!s100 L;G?lGXeM5bh]QHS=TYhB1
+I0b`<@T:W1=oRV_60RF5Uj0
+R1
+R2
+w1645060592
+8D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/CortexM0_SoC.v
+FD:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/CortexM0_SoC.v
+L0 2
+R4
+r1
+!s85 0
+31
+!s108 1645062645.370000
+!s107 D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/CortexM0_SoC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/CortexM0_SoC.v|
+!i113 1
+R5
+n@cortex@m0_@so@c
+vCortexM0_SoC_vlg_tst
+R0
+!i10b 1
+!s100 g^n]0VkGlhEIOME;Qj[m<3
+IKgoWWaRBH7hNoNe2GWZJ32
+R1
+R2
+R3
+8D:/jichuang/Ass/CortexM0_SoC_Task/Task2/modelsim/CortexM0_SoC_vlg_tst.v
+FD:/jichuang/Ass/CortexM0_SoC_Task/Task2/modelsim/CortexM0_SoC_vlg_tst.v
+L0 2
+R4
+r1
+!s85 0
+31
+!s108 1645062635.016000
+!s107 D:/jichuang/Ass/CortexM0_SoC_Task/Task2/modelsim/CortexM0_SoC_vlg_tst.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/jichuang/Ass/CortexM0_SoC_Task/Task2/modelsim/CortexM0_SoC_vlg_tst.v|
+!i113 1
+R5
+n@cortex@m0_@so@c_vlg_tst
+vcortexm0ds_logic
+R7
+!i10b 1
+!s100 b93<P@U:oidV:RF?XC>5T1
+ITUTz0QVQNfa3[lm3lRVS<2
+R1
+R2
+w1506940729
+8D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/cortexm0ds_logic.v
+FD:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/cortexm0ds_logic.v
+L0 27
+R4
+r1
+!s85 0
+31
+!s108 1645062645.583000
+!s107 D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/cortexm0ds_logic.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/cortexm0ds_logic.v|
+!i113 1
+R5
+vWaterLight
+R0
+!i10b 1
+!s100 5@[V[3@99A=CKBX1YXk8J0
+Il1_Xnk>n_zCNSiR=i1Ak12
+R1
+R2
+R3
+8D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/WaterLight.v
+FD:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/WaterLight.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1645062635.210000
+!s107 D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/WaterLight.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/WaterLight.v|
+!i113 1
+R5
+n@water@light

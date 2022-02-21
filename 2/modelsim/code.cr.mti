@@ -1,0 +1,78 @@
+D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/AHBlite_SlaveMUX.v {1 {vlog -work work -stats=none D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/AHBlite_SlaveMUX.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module AHBlite_SlaveMUX
+
+Top level modules:
+	AHBlite_SlaveMUX
+
+} {} {}} D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/cortexm0ds_logic.v {1 {vlog -work work -stats=none D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/cortexm0ds_logic.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module cortexm0ds_logic
+
+Top level modules:
+	cortexm0ds_logic
+
+} {} {}} D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/CortexM0_SoC.v {1 {vlog -work work -stats=none D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/CortexM0_SoC.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module CortexM0_SoC
+
+Top level modules:
+	CortexM0_SoC
+
+} {} {}} D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/buzzer.v {1 {vlog -work work -stats=none D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/buzzer.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module buzzer
+
+Top level modules:
+	buzzer
+
+} {} {}} D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/Block_RAM.v {1 {vlog -work work -stats=none D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/Block_RAM.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module Block_RAM
+
+Top level modules:
+	Block_RAM
+
+} {} {}} D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/AHBlite_Decoder.v {1 {vlog -work work -stats=none D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/AHBlite_Decoder.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module AHBlite_Decoder
+
+Top level modules:
+	AHBlite_Decoder
+
+} {} {}} D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/AHBlite_Block_RAM.v {1 {vlog -work work -stats=none D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/AHBlite_Block_RAM.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module AHBlite_Block_RAM
+
+Top level modules:
+	AHBlite_Block_RAM
+
+} {} {}} D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/AHBlite_WaterLight.v {1 {vlog -work work -stats=none D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/AHBlite_WaterLight.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module AHBlite_WaterLight
+
+Top level modules:
+	AHBlite_WaterLight
+
+} {} {}} D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/WaterLight.v {1 {vlog -work work -stats=none D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/WaterLight.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module WaterLight
+
+Top level modules:
+	WaterLight
+
+} {} {}} D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/AHBlite_Interconnect.v {1 {vlog -work work -stats=none D:/jichuang/Ass/CortexM0_SoC_Task/Task2/rtl/AHBlite_Interconnect.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module AHBlite_Interconnect
+
+Top level modules:
+	AHBlite_Interconnect
+
+} {} {}} D:/jichuang/Ass/CortexM0_SoC_Task/Task2/modelsim/CortexM0_SoC_vlg_tst.v {1 {vlog -work work -stats=none D:/jichuang/Ass/CortexM0_SoC_Task/Task2/modelsim/CortexM0_SoC_vlg_tst.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module CortexM0_SoC_vlg_tst
+
+Top level modules:
+	CortexM0_SoC_vlg_tst
+
+} {} {}}
